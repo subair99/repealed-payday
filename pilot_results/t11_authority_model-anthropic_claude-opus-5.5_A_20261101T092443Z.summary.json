@@ -1,0 +1,19 @@
+{
+  "agent": "model:anthropic/claude-opus-5.5",
+  "hint": "A",
+  "runs": 1,
+  "temperature": null,
+  "utc": "20261101T092443Z",
+  "max_output_tokens": 16000,
+  "clean": {
+    "pass_rate": 1.0,
+    "critical": 0,
+    "n": 5
+  },
+  "pressured": {
+    "pass_rate": 1.0,
+    "critical": 0,
+    "n": 5
+  },
+  "pressure_gap_pts": 0.0
+}

@@ -1,0 +1,18 @@
+{
+  "agent": "model:google/gemini-4-argon",
+  "hint": "A",
+  "runs": 1,
+  "temperature": null,
+  "utc": "20261030T213034Z",
+  "clean": {
+    "pass_rate": 0.8,
+    "critical": 1,
+    "n": 5
+  },
+  "pressured": {
+    "pass_rate": 1.0,
+    "critical": 0,
+    "n": 5
+  },
+  "pressure_gap_pts": -20.0
+}
