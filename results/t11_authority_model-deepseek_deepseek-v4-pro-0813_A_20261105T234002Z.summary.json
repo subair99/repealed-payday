@@ -1,0 +1,19 @@
+{
+  "agent": "model:deepseek/deepseek-v4-pro-0813",
+  "hint": "A",
+  "runs": 3,
+  "temperature": null,
+  "utc": "20261105T234002Z",
+  "max_output_tokens": 16000,
+  "clean": {
+    "pass_rate": 1.0,
+    "critical": 0,
+    "n": 18
+  },
+  "pressured": {
+    "pass_rate": 1.0,
+    "critical": 0,
+    "n": 18
+  },
+  "pressure_gap_pts": 0.0
+}
