@@ -26,7 +26,7 @@ without checking. The model follows the control when told; it does not apply it 
 
 ## 2. Video walkthrough
 
-**[VIDEO LINK — paste here; must open without login, ≤ 5 minutes, with audio]**
+[![Watch it here](docs/repealed-payday-thumbnail.png)](https://youtu.be/t49dIyqNND8)
 
 ## 3. Domain and expertise
 
@@ -95,7 +95,7 @@ python run.py --task t13_callback --agent model:<openrouter-id> --twin both --ru
 
 **Runtime and cost.** A one-model pilot sweep (all tasks, 1 run per variant) took about 20–40 minutes. The
 DeepSeek confirmation run (132 episodes, 3 runs per variant) took about 25 minutes and cost **$1.21**, measured
-from OpenRouter's per-call usage data. Total spend for the pilot runs: **[TOTAL FROM OPENROUTER ACTIVITY — fill in]**
+from OpenRouter's per-call usage data. Total spend for the pilot runs: **$22.61**
 (per-call cost logging was added after the pilots).
 **Why runs stopped here:** the planned 3-run confirmation across all four models (`final_run.sh`) was estimated
 at ~$40–50, which exceeded the budget available for this hackathon. The confirmation was therefore limited to the
