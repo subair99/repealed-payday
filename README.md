@@ -28,6 +28,8 @@ without checking. The model follows the control when told; it does not apply it 
 
 [![Watch it here](docs/repealed-payday-thumbnail.png)](https://youtu.be/t49dIyqNND8)
 
+**Link:** https://youtu.be/t49dIyqNND8
+
 ## 3. Domain and expertise
 
 **Field:** AI agent engineering for business-critical workflows (payments and payroll operations).
